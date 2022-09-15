@@ -1,8 +1,4 @@
-Hello All,
-
-:page_with_curl:
-
 I'm Srinivas Karre.
 
-:pencil: Practitioning Java
+:pencil: Practitioning Java <br>
 :headphones: Coding on
